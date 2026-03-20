@@ -188,5 +188,5 @@ La cobertura se basa en la **edición estándar / hive actual** de T-Pot.
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
+git clone https://github.com/victordanielteleco/tpot-hive-checker.git
+cd victordanielteleco
